@@ -1,5 +1,5 @@
 function displayImage(newimg){
-	document.getElementById("image2").src = "images/Steg/"+newimg+".jpg";
+	document.getElementById("image2").src = newimg+".jpg";
 }
 
 function modalShow(){
